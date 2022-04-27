@@ -24,7 +24,7 @@ namespace MyHelloCS
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("안녕하세요! 저랑 멘보샤 먹으러 갈래요???","해정曰",MessageBoxButtons.OK,MessageBoxIcon.Asterisk);
         }
     }
 }
